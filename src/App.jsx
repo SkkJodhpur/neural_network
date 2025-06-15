@@ -1264,7 +1264,7 @@ function Sidebar({ activeTab, setActiveTab, isMobileOpen, setIsMobileOpen }) {
         <div className="absolute bottom-0 left-0 right-0 p-4 border-t border-sidebar-border">
           <div className="flex items-center space-x-2 text-xs text-sidebar-foreground">
             <Globe className="h-3 w-3" />
-            <span>Made with Manus</span>
+            <span>Made by ❤ SKKJODHPUR </span>
           </div>
         </div>
       </div>
